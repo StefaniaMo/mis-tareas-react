@@ -1,0 +1,11 @@
+.perfil{
+    background-color: #f4f4f4;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+
+    h2{
+        color: #80858f;
+    }
+}
+
